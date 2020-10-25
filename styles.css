@@ -36,3 +36,38 @@
 .flex-panel {
 	flex:1;
 }
+
+.news-text {
+	font-size: 18px !important;
+}
+
+.news-body {
+	max-width: 800px !important;
+}
+
+#comment-title {
+	font-family: 'Roboto Slab', serif;
+	font-size: 24px;
+	border-bottom: 2px solid;
+}
+
+.user-name-comment {
+	font-size: 18px !important;
+	font-weight: 500 !important;
+}
+
+/*.media {
+	border-bottom: 1px solid gray;
+}*/
+
+.signin-form {
+	max-width: 300px !important;
+}
+
+.signup-form {
+	max-width: 600px !important;
+}
+
+#profile-photo {
+	width: 200px !important;
+}
